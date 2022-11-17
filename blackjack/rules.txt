@@ -11,9 +11,9 @@ If you go over 21, you go bust and you lose!
 Cards 2-10 are their values, J, Q and K are worth 10 each.
 
 However, the Ace is special:
-	Its' base value is 11,
+	Its base value is 11,
 		BUT:
-	If you go over 21, its' value is changed to 1!
+	If you go over 21, its value is changed to 1!
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -30,9 +30,13 @@ There are different things you can do each round, depending on what cards you dr
 		have 2 goes at getting 21. You can twist on each card individually, and if
 		you go bust on the first one, dont worry! You have another chance!
 
-	Burn:
-		If your cards add up to 13, you can burn! This gets rid of your cards and
-		replaces them with 2 brand new cards!
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+After you finish your go, the dealer gets their go!
+
+The dealer works off the idea that they have to stick if they get a 17 or higher.
+
+The dealer can do all the things you can do: twist, stick and split.
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
