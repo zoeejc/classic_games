@@ -84,7 +84,7 @@ if start == "play":
 				break
 
 			elif total <= 21 and (len(my_cards) == 5):
-				print(">>> You got a 5 card trick!! Congrats!!")
+				print(">>> You got a 5 card trick!! Automatic win!! Congrats!!")
 				break
 
 			print(">>> What would you like to do: twist or stick?")
